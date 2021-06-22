@@ -1,6 +1,4 @@
 # Easy_Acess_Github
----
-**Optimized Github Hosts for Chengtu, Szechuan, China**   
 151.101.108.133 avatars2.githubusercontent.com   
 151.101.108.133 avatars1.githubusercontent.com   
 151.101.108.133 avatars3.githubusercontent.com   
