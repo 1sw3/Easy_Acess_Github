@@ -6,3 +6,4 @@
 151.101.108.133 raw.githubusercontent.com   
 140.82.114.6 api.github.com   
 #192.30.253.112 github.com   
+## This can be used in the configuration files of TCPioneer
